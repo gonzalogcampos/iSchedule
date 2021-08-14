@@ -1,0 +1,15 @@
+tel: None
+mail: None
+contract:
+  start: None
+  end: None
+  type: full
+  hours: 40
+  free_days: 2
+  vacations: []
+restrictions:
+  works: 
+    - FRI: 1
+    - SAT: 1
+  not_works: {}
+  wants: {}

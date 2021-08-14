@@ -1,0 +1,29 @@
+employee1:
+  tel: 965287436
+  mail: emp0@hotmail.com
+  contract:
+    start: 20210801
+    end: 20211125
+    type: full
+    hours: 40
+    free_days: 2
+    vacations:
+      - 20210818
+      - 20210825-20210827
+  restrictions:
+    works:
+      FRI: 1
+      SUT: 0
+      20210901: 0
+    not_works:
+      SUN: 0
+    wants:
+      20210811: 1
+employee2:
+  tel: 965287436
+employee3:
+  tel: 965287436
+employee4:
+  tel: 965287436
+employee5:
+  tel: 965287436

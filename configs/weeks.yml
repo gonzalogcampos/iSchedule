@@ -1,0 +1,38 @@
+20210809:
+  key: 20210809
+  days:
+    MON:
+      turns:
+        morning: {}
+        afternoon: {}
+        full: {}
+    TUE:
+      turns:
+        morning: {}
+        afternoon: {}
+        full: {}
+    WED:
+      turns:
+        morning: {}
+        afternoon: {}
+        full: {}
+    THU:
+      turns:
+        morning: {}
+        afternoon: {}
+        full: {}
+    FRI:
+      turns:
+        morning: {}
+        afternoon: {}
+        full: {}
+    SAT:
+      turns:
+        morning: {}
+        afternoon: {}
+        full: {}
+    SUN:
+      turns:
+        morning: {}
+        afternoon: {}
+        full: {}

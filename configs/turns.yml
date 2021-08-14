@@ -1,0 +1,20 @@
+morning:
+    h: 
+        - 1000-1600
+    n_employees: 1
+
+afternoon:
+    h:
+        - 1600-0200
+    n_employees: 2
+
+full:
+    h:
+        - 1300-2000
+    n_employees: 1
+
+partial:
+    h: 
+        - 1300-1700
+        - 2000-0000
+    n_employees: 3

@@ -1,0 +1,19 @@
+NOT_MONDAY:
+  spanish: "{0} no es lunes"
+  default: "{0} is not Modnay"
+
+NOT_VALID_H:
+  spanish: "{0} no es una hora valida"
+  default: "{0} is not a valid hour"
+
+EMP_IN_TURN:
+  spanish: "{0} ya se encuentra en este turno"
+  default: "{0} is already in this turn"
+  
+EMP_OU_TURN:
+  spanish: "{0} no esta en este turno"
+  default: "{0} is not in this turn"
+
+NOT_EMPLOYEE:
+  spanish: "{0} no es un instancia de Employee"
+  default: "{0} is not instance of Employee"
